@@ -1,0 +1,6 @@
+= redmine_negative_time_log
+
+A simple plugin that allows negative time entries in log. Possible use caseses are:
+
+1. Subtract invoiced hours
+2. Keep track of hours and billing in hourly billing mode
